@@ -1,0 +1,33 @@
+.categoriaUno{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:red;
+    margin-right: solid  5px;
+}
+.parrafo{
+    color: black;
+}
+.categoriaDos{
+    color:red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: solid  5px; 
+}
+
+body{
+    background-color: #000;
+}
+
+.color{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+    height: 25px;
+    background-color: red;
+}
+.color:hover{
+    background-color: pink  ;
+}
